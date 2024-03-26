@@ -38,4 +38,4 @@
 <div align="justify"> Essas atualizações podem abranger mudanças nas práticas de tratamento de dados realizadas por nós, atualizações nos fornecedores dos serviços de manutenção do site, bem como ajustes para garantir uma maior proteção aos direitos dos titulares de dados pessoais que utilizam nossos serviços digitais. Nosso compromisso é atender às expectativas dos titulares de dados e manter uma comunicação transparente sobre o tratamento de informações dos usuários, em consonância com os valores que defendemos como empresa. </div>
 
 <br>
-Esta versão da Política de Privacidade foi publicada em: **26/03/2024**.
+Esta versão da Política de Privacidade foi publicada em: <strong>26/03/2024</strong>.
