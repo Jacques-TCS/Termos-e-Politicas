@@ -19,6 +19,8 @@
 <br>
 <div align="justify"> O usuário tem o direito de requerer o fim do tratamento de seus dados pessoais quando for desligado da empresa, assim como requisitar informações detalhadas da forma como realizamos o tratamento desses dados.  </div>
 <br>
+<div align="justify"> Para essas finalidades, solicitamos que os usuários entrem em contato com nosso Encarregado de Proteção de Dados, Rafael Derner de Oliveira, por meio do endereço de e-mail suporte.jacques@gmail.com, indicando o nome e o propósito da comunicação. </div>
+<br>
 <div align="justify"> Podemos solicitar dados pessoais adicionais para garantir a correspondência entre as informações do solicitante e os dados do usuário em questão. Isso é feito para proteger os dados dos usuários do site contra acesso não autorizado e garantir o controle adequado sobre o tratamento de dados. </div>
 
 ### 2. Período de retenção dos dados
@@ -38,4 +40,4 @@
 <div align="justify"> Essas atualizações podem abranger mudanças nas práticas de tratamento de dados realizadas por nós, atualizações nos fornecedores dos serviços de manutenção do site, bem como ajustes para garantir uma maior proteção aos direitos dos titulares de dados pessoais que utilizam nossos serviços digitais. Nosso compromisso é atender às expectativas dos titulares de dados e manter uma comunicação transparente sobre o tratamento de informações dos usuários, em consonância com os valores que defendemos como empresa. </div>
 
 <br>
-Esta versão da Política de Privacidade foi publicada em: <strong>26/03/2024</strong>.
+Esta versão da Política de Privacidade foi publicada em: <strong>29/04/2024</strong>.
